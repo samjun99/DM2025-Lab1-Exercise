@@ -8547,8 +8547,8 @@ guest	dying	9760	241:9
 408	dying	9760	241:9
 guest	408	dying	9760	241:9
 fred:12
-fred	action:9
 fred	means:9
+fred	action:9
 fred	international:9
 totally:12
 white:12
@@ -8796,7 +8796,6 @@ absurd	wishes	claire	eau	whoever	philosopher:11
 patently	wishes	claire	eau	whoever	philosopher:11
 absurd	patently	wishes	claire	eau	whoever	philosopher:11
 wi:12
-wi	wisconsin:11
 wi	absurd:11
 wi	absurd	wisconsin:10
 wi	patently:11
@@ -9051,6 +9050,7 @@ absurd	patently	claire	eau	wi	whoever	philosopher:11
 absurd	wishes	claire	eau	wi	whoever	philosopher:11
 patently	wishes	claire	eau	wi	whoever	philosopher:11
 absurd	patently	wishes	claire	eau	wi	whoever	philosopher:11
+wi	wisconsin:11
 gives:12
 reasonable:12
 att:12
@@ -9152,8 +9152,8 @@ fever:13
 chips:13
 chips	guest:9
 chocolate:13
-chocolate	action:9
 chocolate	guest:9
+chocolate	action:9
 chocolate	chips:9
 chocolate	chips	guest:9
 benefit:13
@@ -9170,7 +9170,6 @@ letter:13
 meal:13
 al:13
 claire:13
-claire	wisconsin:11
 claire	absurd:11
 claire	absurd	wisconsin:10
 claire	patently:11
@@ -9185,6 +9184,7 @@ absurd	patently	claire	wishes	wisconsin:10
 claire	wishes	absurd:11
 claire	wishes	patently:11
 absurd	claire	wishes	patently:11
+claire	wisconsin:11
 beginning:13
 iv:13
 quacks:13
@@ -9386,10 +9386,10 @@ lead:15
 modern:15
 relatively:15
 online:15
-online	action:9
-online	action	408:9
 online	means:9
 online	means	communications:9
+online	action:9
+online	action	408:9
 online	guest:11
 online	guest	communications:10
 408	online	guest	communications:10

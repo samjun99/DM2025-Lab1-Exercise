@@ -2336,8 +2336,8 @@ side:12
 ways:12
 built:12
 kept:12
-kept	hearing:9
 kept	lie:9
+kept	hearing:9
 kept	next:10
 thousands:12
 german:12
@@ -3331,8 +3331,8 @@ allow	supposed:9
 whose:20
 local:20
 proof:20
-proof	ones:9
 proof	nor:9
+proof	ones:9
 meant:20
 gave:20
 marriage:20
@@ -3396,8 +3396,8 @@ dwyer:21
 dwyer	2000:10
 theist:21
 entire:21
-entire	dan:9
 entire	wasn:9
+entire	dan:9
 earlier:21
 dan:21
 lie:21
